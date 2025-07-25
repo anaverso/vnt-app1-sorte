@@ -26,10 +26,10 @@ Este é um app simples em Flutter que sorteia um número aleatório de 1 a 10, e
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/numero-da-sorte.git
+git clone https://github.com/anaverso/vnt-app1-sorte.git
 
 # Acesse a pasta do projeto
-cd numero-da-sorte
+cd vnt-app1-sorte
 
 # Rode o app
 flutter run
