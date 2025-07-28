@@ -1,6 +1,6 @@
 # 🎲 Número da Sorte - App Flutter
 
-Este é um app simples em Flutter que sorteia um número aleatório de 1 a 10, evitando repetições e exibindo alertas.
+Este aplicativo foi desenvolvido como parte de uma trilha de aprendizado em Flutter, promovida pelo **Instituto de Pesquisa Venturus**. Este é um app simples em Flutter que sorteia um número aleatório de 1 a 10, evitando repetições e exibindo alertas.
 
 ## ✨ Funcionalidades
 
